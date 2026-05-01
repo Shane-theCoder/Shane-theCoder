@@ -2,7 +2,7 @@
 
 Doing My Computer Science Enigneering from Galgotias University<br>
 Loves to make Logic for Problems<br>
-Good knowledge of Frontend Development<br>
+Good knowledge of Software Development<br>
 Here, Is my LinkedIn Link:- www.linkedin.com/in/akash-rawat-a97b0a201
 
 
